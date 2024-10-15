@@ -4,5 +4,5 @@ services:
       context: docker
     ports:
       - 8080:8080
-    image: phoebus:performance
+    image: rjwills28/phoebus:performance50
     container_name: phoebus
