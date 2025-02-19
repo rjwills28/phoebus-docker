@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <display version="2.0.0">
-  <width>1300</width>
-  <height>1500</height>
+  <width>10</width>
+  <height>400</height>
   <background_color>
     <color name="Canvas" red="200" green="200" blue="200">
     </color>
@@ -187,8 +187,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC145</pv_name>
-    <x>375</x>
-    <y>80</y>
+    <x>70</x>
+    <y>101</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -218,8 +218,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC146</pv_name>
-    <x>436</x>
-    <y>80</y>
+    <x>131</x>
+    <y>101</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -249,8 +249,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC147</pv_name>
-    <x>497</x>
-    <y>80</y>
+    <x>192</x>
+    <y>101</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -280,8 +280,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC148</pv_name>
-    <x>558</x>
-    <y>80</y>
+    <x>253</x>
+    <y>101</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -311,8 +311,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC149</pv_name>
-    <x>619</x>
-    <y>80</y>
+    <x>314</x>
+    <y>101</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -342,8 +342,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC150</pv_name>
-    <x>689</x>
-    <y>80</y>
+    <x>70</x>
+    <y>122</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -373,8 +373,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC151</pv_name>
-    <x>750</x>
-    <y>80</y>
+    <x>131</x>
+    <y>122</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -404,8 +404,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC152</pv_name>
-    <x>811</x>
-    <y>80</y>
+    <x>192</x>
+    <y>122</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -435,8 +435,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC153</pv_name>
-    <x>872</x>
-    <y>80</y>
+    <x>253</x>
+    <y>122</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -466,8 +466,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC154</pv_name>
-    <x>933</x>
-    <y>80</y>
+    <x>314</x>
+    <y>122</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -497,8 +497,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC155</pv_name>
-    <x>994</x>
-    <y>80</y>
+    <x>70</x>
+    <y>143</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -528,8 +528,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC156</pv_name>
-    <x>1055</x>
-    <y>80</y>
+    <x>131</x>
+    <y>143</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -559,8 +559,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC157</pv_name>
-    <x>1116</x>
-    <y>80</y>
+    <x>192</x>
+    <y>143</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -590,8 +590,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC158</pv_name>
-    <x>1177</x>
-    <y>80</y>
+    <x>253</x>
+    <y>143</y>
     <width>60</width>
     <height>20</height>
     <font>
@@ -621,8 +621,8 @@
   <widget type="textupdate" version="2.0.0">
     <name>Text Update</name>
     <pv_name>TEST:REC159</pv_name>
-    <x>1238</x>
-    <y>80</y>
+    <x>314</x>
+    <y>143</y>
     <width>60</width>
     <height>20</height>
     <font>
